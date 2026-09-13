@@ -227,4 +227,5 @@ void loop() {
 ## Lizenz / Hinweis
 
 Dieses Projekt wird ohne Gewährleistung bereitgestellt. Die Nutzung erfolgt auf eigene Verantwortung. Besonders beim Umgang mit Lithium-Ionen-Akkus sind geeignete Schutzmaßnahmen und ein sicherer mechanischer Aufbau erforderlich.
+Dieses Projekt steht unter der [MIT-Lizenz](https://github.com/henmoding/arduino-18650-battery-tester/blob/main/LICENSE).
 
